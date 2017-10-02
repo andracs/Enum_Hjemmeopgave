@@ -1,4 +1,4 @@
-package com.company;
+package com.company; // Husk at bruge dit eget package navn fra nu af
 
 public class Main {
 
